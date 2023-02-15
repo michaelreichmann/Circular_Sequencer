@@ -27,4 +27,4 @@ The agents start moving when the transport is *on*.
 **Length**: duration of the played notes<br/>
 
 The interface looks like this:<br/>
-![Interface](/picture/CircularSequencer.png)
+![Interface](/picture/CS.png)
