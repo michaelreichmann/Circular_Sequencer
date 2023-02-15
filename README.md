@@ -13,9 +13,9 @@ The agents start moving when the transport is *on*.
 **X/Y**: number of tiles on each axis of the grid (maximum of 8 each)<br/>
 
 ##### MOTION
-**Shape**: choose between five kinds of motion: circle, square, triangle, eight and sine<br/>
-**X/Y Off**: offset of the circular motion on the x and y axis<br/>
-**Angel**: angle of the shape<br/>
+**Shape**: choose between five shapes of motion: circle, square, triangle, eight and sine<br/>
+**X/Y Off**: offset of the shape on the x and y axis<br/>
+**Angle**: angle of the shape<br/>
 **Rate**: the rotational speed in bars<br/>
 
 ##### AGENTS
